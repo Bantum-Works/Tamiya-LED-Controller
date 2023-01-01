@@ -1,10 +1,10 @@
 # Tamiya-LED-Controller
 LED Controller for RC cars
 
-Basic LED controller for 12 LEDs
+Basic LED controller for 12 LEDs ( Tamyia #no )
 
-Based on fritzing platform, have done basic breadboaard / schematic / layout for it.
+Made for the fritzing platform, have done a basic breadboard / schematic / layout for it.
 
-Welcome to add / or update / fix errors found in it ...
+Welcome to add / update or fix errors found in it ...
 
 Cheers, Bantum ...
